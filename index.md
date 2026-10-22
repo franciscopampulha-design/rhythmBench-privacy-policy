@@ -2,7 +2,7 @@
 
 _Last updated: 21 October 2026_
 
-Rhythm Bench ("the app") is made by Francisco Pampulha, who is
+Rhythm Trainer: Sight Reading ("the app") is made by Francisco Pampulha, who is
 responsible for the data described here. Questions or requests:
 franciscopampulha@gmail.com.
 
