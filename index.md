@@ -1,8 +1,8 @@
-# Privacy Policy — Rhythm Bench
+# Privacy Policy — Rhythm Trainer: Sight Reading
 
 _Last updated: 21 October 2026_
 
-Rhythm Bench ("the app") is made by Francisco Ferreira Pampulha, who is
+Rhythm Bench ("the app") is made by Francisco Pampulha, who is
 responsible for the data described here. Questions or requests:
 franciscopampulha@gmail.com.
 
@@ -98,4 +98,4 @@ new date.
 
 ## Contact
 
-Francisco Ferreira Pampulha — franciscopampulha@gmail.com
+Francisco Pampulha — franciscopampulha@gmail.com
